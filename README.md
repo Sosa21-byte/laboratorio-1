@@ -1,4 +1,4 @@
 # Laboratorio-1
-https://windowsreport.com/wp-content/uploads/2022/08/Ventoy-vs-Rufus.jpg
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/89a43599-45db-4a17-b495-3d56567d07b0" />
 
 Uso de Rufus y Ventoy 
